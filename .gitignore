@@ -1,0 +1,8 @@
+node_modules
+client
+uploads
+tmp
+.env
+*.log
+*.log.?
+
